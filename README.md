@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28609523/README.md)
-
 # 📊 Gestão de Estoque e Vendas de Smartphones
 
 Sobre o Projet
@@ -42,6 +40,7 @@ Abaixo temos um dashboard simples e poderoso. Nele, podemos consultar a quantida
 
 Também contamos com um gráfico que apresenta quais modelos permanecem em estoque e quais podem ser utilizados para aumentar o giro e a rentabilidade do negócio. Com essas informações, é possível identificar quais produtos devem ser priorizados e mantidos sempre disponíveis em estoque.
 
+<img src="Dashboard/Dashboard.png" width="800">
 <img src="Dashboard/Dashboard2.0.png" width="800">
 
 ## Conclusão
